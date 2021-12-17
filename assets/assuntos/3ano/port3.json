@@ -1,0 +1,274 @@
+[
+  {
+    "titulo":"Verbos:pronominais;formas nominais;vozes:ativa,passiva,reflexiva e reflexiva recíproca",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Estrutura das palavras:os elementos mórficos (radicais,desinências,vogal temática,tema,afixos,vogais e consoantes de ligação)",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Formação de palavras:derivação",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Formação de palavras:composição",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Formação de palavras:hibridismo",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Formação de palavras:abreviação",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Formação de palavras:onomatopeia",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Regência nominal e verbal",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Mudança de regência e mudança de sentido",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Regência de nomes e verbos de uso frequente",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Emprego dos pronomes relativos precedidos de preposição",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Uso da crase",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Concordância nominal:regra geral e casos especiais",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Concordância de certas palavras e expressões:meio,mesmo,próprio,só,anexo,incluso,bastante,caro,barato,longe,é  proibido,é  necessário,é  muito,é bastante,é suficiente",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Concordância verbal:regra geral e casos especiais",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Concordância com verbos impessoais",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Silepse de gênero,de pessoa e de número",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Funções sintáticas do “que” e do “se”e do “como”",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Valor sintático dos conectivos (conjunções coordenativas e subordinativas)",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Figuras sonoras: aliteração",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras sonoras:assonância",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras sonoras:paronomásia",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Vícios de linguagem:ambiguidade",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Vícios de linguagem:barbarismo",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Vícios de linguagem:cacofonia",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Vícios de linguagem:colisão",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Vícios de linguagem:eco",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Vícios de linguagem:hiato",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Vícios de linguagem:pleonasmo vicioso",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Polissemia",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Hiperonímia e hiponímia",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de linguagem:  metáfora,  catacrese,  metonímia,  sinestesia,  antítese,  eufemismo,  gradação,  hipérbole, prosopopeia, paradoxo, perífrase, ironia.",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de linguagem:metáfora",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de linguagem:catacrese",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de linguagem:metonímia",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de linguagem:sinestesia",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de linguagem:antítese",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de linguagem:eufemismo",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de linguagem:gradação",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de linguagem:hipérbole",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de linguagem:prosopopeia",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de linguagem:paradoxo",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de linguagem:perífrase",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de linguagem:ironia",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Compreensão e interpretação",
+    "subtitulo":"Texto",
+    "check":false
+  },
+  {
+    "titulo":"Estrutura do texto,partes,relação entre as partes",
+    "subtitulo":"Texto",
+    "check":false
+  },{
+  "titulo":"Plano de conteúdo: ideia principal, ideias secundárias, ideias explícitas e implícitas",
+  "subtitulo":"Texto",
+  "check":false
+},
+  {
+    "titulo":"Plano linguístico:significação de palavras e expressões no conteúdo",
+    "subtitulo":"Texto",
+    "check":false
+  },
+  {
+    "titulo":"Coesão e coerência textuais",
+    "subtitulo":"Texto",
+    "check":false
+  },
+
+  {
+    "titulo":"Funções da linguagem",
+    "subtitulo":"Texto",
+    "check":false
+  },
+  {
+    "titulo":"Gêneros textuais",
+    "subtitulo":"Texto",
+    "check":false
+  },
+
+  {
+    "titulo":" Tipos básicos de texto:descrição,narração,dissertação",
+    "subtitulo":"Texto",
+    "check":false
+  },
+  {
+    "titulo":"Outros tipos de texto:informativos,lúdicos,notícias,reportagens,editoriais,epistolares,publicitários,humorísticos",
+    "subtitulo":"Texto",
+    "check":false
+  },
+
+  {
+    "titulo":"Tipos de discurso:direto,indireto,indireto livre",
+    "subtitulo":"Texto",
+    "check":false
+  }
+]

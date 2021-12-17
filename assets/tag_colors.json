@@ -1,0 +1,62 @@
+[
+  {
+    "namecolor": "Vermelho",
+    "listRGB": [244,67,54]
+  },
+  {
+    "namecolor": "Vermelho sangue",
+    "listRGB": [153,0,21]
+  },
+  {
+    "namecolor": "Bege",
+    "listRGB": [233,30,99]
+  },
+  {
+    "namecolor": "Rosa claro",
+    "listRGB": [228,185,172]
+  },
+  {
+    "namecolor": "Marrom",
+    "listRGB": [121,85,72]
+  },
+  {
+    "namecolor": "Verde",
+    "listRGB": [76,175,80]
+  },
+  {
+    "namecolor": "Azul",
+    "listRGB": [33,150,243]
+  },
+  {
+    "namecolor": "Laranja",
+    "listRGB": [255,152,0]
+  },
+  {
+    "namecolor": "Amarelo",
+    "listRGB": [255,255,0]
+  },
+  {
+    "namecolor": "Roxo",
+    "listRGB": [103,58,183]
+  },
+  {
+    "namecolor": "Verde claro",
+    "listRGB": [105,240,174]
+  },
+  {
+    "namecolor": "Verde suave",
+    "listRGB": [19,211,142]
+  },
+  {
+    "namecolor": "Azul acinzentado",
+    "listRGB": [96,125,139]
+  },
+  {
+    "namecolor": "Azul escuro",
+    "listRGB": [0,46,114]
+  },
+  {
+    "namecolor": "Branco",
+    "listRGB": [255,255,255]
+  }
+]

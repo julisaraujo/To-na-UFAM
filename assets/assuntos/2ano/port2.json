@@ -1,0 +1,247 @@
+[
+  {
+    "titulo":"Vogais,   semivogais,   consoantes",
+    "subtitulo":"Fonologia",
+    "check":false
+  },
+  {
+    "titulo":"Ortoépia   e   prosódia",
+    "subtitulo":"Fonologia",
+    "check":false
+  },
+  {
+    "titulo":"Significação   das   palavras: sinônimos, antônimos, homônimos e parônimos",
+    "subtitulo":"Fonologia",
+    "check":false
+  },
+  {
+    "titulo":"Pronomes:  colocação  dos  pronomes  pessoais  oblíquos  átonos",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Verbos:  regulares, irregulares,   anômalos,   defectivos   e   abundantes",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Verbos: conjugação:   tempos   simples   e   compostos",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Advérbios: classificação, graus, locuções adverbiais",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Preposições: essenciais e acidentais",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Conjunções:    coordenativas    e    subordinativas",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Interjeições: classificação",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Interjeições: locuções interjetivas",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Interjeições: uso de “oh!” e de “ó”",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Período simples",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Período composto por coordenação e subordinação",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Termos essenciais da oração:  sujeito  e  predicado",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":" Tipos de sujeito",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"A oração sem sujeito",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Tipos de predicado",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":" Termos integrantes  da oração:  complemento  nominal",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":" Termos integrantes da oração: complementos verbais (objeto direto e indireto)",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":" Termos integrantes  da oração: agente da passiva",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Termos acessórios da oração: adjunto  adnominal",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Termos acessórios da oração: adjunto  adverbial  aposto",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Termos acessórios da oração: vocativo",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Orações  coordenadas",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Orações subordinadas substantivas, adjetivas, adverbiais",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Orações reduzidas de gerúndio, infinitivo e particípio",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Denotação   e   conotação",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":" Figuras de linguagem: metáfora",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":" Figuras de linguagem: catacrese",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":" Figuras de linguagem: metonímia",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":" Figuras de linguagem: sinestesia",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":" Figuras de linguagem: antítese",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":" Figuras de linguagem: eufemismo",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":" Figuras de linguagem: gradação",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":" Figuras de linguagem: hipérbole",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":" Figuras de linguagem: prosopopeia",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":" Figuras de linguagem: paradoxo",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":" Figuras de linguagem: perífrase",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":" Figuras de linguagem: ironia",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de construção ou de sintaxe: anacoluto",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de construção ou de sintaxe: anáfora",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de construção ou de sintaxe: assíndeto",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de construção ou de sintaxe: elipse",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de construção ou de sintaxe: hipérbato",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de construção ou de sintaxe: pleonasmo",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de construção ou de sintaxe: polissíndeto",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de construção ou de sintaxe: silepse",
+    "subtitulo":"Semântica",
+    "check":false
+  },
+  {
+    "titulo":"Figuras de construção ou de sintaxe: zeugma",
+    "subtitulo":"Semântica",
+    "check":false
+  }
+]

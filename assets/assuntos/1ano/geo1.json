@@ -1,0 +1,167 @@
+[
+  {
+    "titulo":"Coordenadas e escalas geográficas",
+    "subtitulo":"Linguagem cartográfica",
+    "check":false
+  },
+  {
+    "titulo":"Fusos Horários",
+    "subtitulo":"Linguagem cartográfica",
+    "check":false
+  },
+  {
+    "titulo":"A história dos mapas",
+    "subtitulo":"Mapas e a representação  gráfica",
+    "check":false
+  },
+  {
+    "titulo":"Escala e projeções cartográficas",
+    "subtitulo":"Mapas e a representação  gráfica",
+    "check":false
+  },
+  {
+    "titulo":"Mapas temáticos e gráficos. ",
+    "subtitulo":"Mapas e a representação  gráfica",
+    "check":false
+  },
+  {
+    "titulo":"A fotogrametria: fotografia aérea",
+    "subtitulo":"As novas tecnologias da representação cartográfica",
+    "check":false
+  },
+  {
+    "titulo":"Sensoriamento remoto e o Sistema de Informação Geográfica (SIG)",
+    "subtitulo":"As novas tecnologias da representação cartográfica",
+    "check":false
+  },
+  {
+    "titulo":"O sistema de posicionamento global (GPS) e o geoprocessamento",
+    "subtitulo":"As novas tecnologias da representação cartográfica",
+    "check":false
+  },
+  {
+    "titulo":"Paisagem, lugar, território, espaço e região",
+    "subtitulo":"A Geografia Moderna e as suas Categorias",
+    "check":false
+  },
+  {
+    "titulo":"Classificação do solo",
+    "subtitulo":"O  solo  e  as  suas  principais  camadas",
+    "check":false
+  },
+  {
+    "titulo":"Caracterização do solo brasileiro",
+    "subtitulo":"O solo e as suas principais camadas",
+    "check":false
+  },
+  {
+    "titulo":"O uso do solo: recursos minerais e aproveitamento econômico‐social",
+    "subtitulo":"O solo e as suas principais camadas",
+    "check":false
+  },
+  {
+    "titulo":"O uso do solo: Impactos ambientais: agricultura e extrativismo mineral.",
+    "subtitulo":"O solo e as suas principais camadas",
+    "check":false
+  },
+  {
+    "titulo":"O extrativismo mineral no Amazonas e suas consequências ambientais",
+    "subtitulo":"O solo e as suas principais camadas",
+    "check":false
+  },
+  {
+    "titulo":"As bacias hidrográficas no mundo",
+    "subtitulo":"As bacias hidrográficas",
+    "check":false
+  },
+  {
+    "titulo":"As bacias hidrográficas no Brasil e no Amazonas",
+    "subtitulo":"As bacias hidrográficas",
+    "check":false
+  },
+  {
+    "titulo":"O uso dos rios: hidrovias e as redes de comunicação",
+    "subtitulo":"As bacias hidrográficas",
+    "check":false
+  },
+  {
+    "titulo":"Hidrovias no Amazonas e o transporte fluvial",
+    "subtitulo":"As bacias hidrográficas",
+    "check":false
+  },
+  {
+    "titulo":"O uso dos rios no Amazonas e a exploração mineral",
+    "subtitulo":"As bacias hidrográficas",
+    "check":false
+  },
+  {
+    "titulo":"Conceitos: clima e tempo",
+    "subtitulo":"A  dinâmica  climática  da  atmosfera  e  as  questões  ambientais  contemporâneas",
+    "check":false
+  },
+  {
+    "titulo":"Elementos do clima: radiação solar, temperatura, massas de ar",
+    "subtitulo":"A  dinâmica  climática  da  atmosfera  e  as  questões  ambientais  contemporâneas",
+    "check":false
+  },
+  {
+    "titulo":"A dinâmica climática no Brasil",
+    "subtitulo":"A  dinâmica  climática  da  atmosfera  e  as  questões  ambientais  contemporâneas",
+    "check":false
+  },
+  {
+    "titulo":"Dinâmica climática da Amazônia e o Amazonas no contexto: água, floresta",
+    "subtitulo":"A  dinâmica  climática  da  atmosfera  e  as  questões  ambientais  contemporâneas",
+    "check":false
+  },
+  {
+    "titulo":"As políticas climáticas mundiais: o Amazonas e as mudanças climáticas",
+    "subtitulo":"A  dinâmica  climática  da  atmosfera  e  as  questões  ambientais  contemporâneas",
+    "check":false
+  },
+  {
+    "titulo":"Características das formações vegetais",
+    "subtitulo":"Vegetação:  os  grandes  biomas  no mundo  e  no  Brasil",
+    "check":false
+  },
+  {
+    "titulo":"A formação vegetal brasileira e seus diferentes biomas",
+    "subtitulo":"Vegetação:  os  grandes  biomas  no mundo  e  no  Brasil",
+    "check":false
+  },
+  {
+    "titulo":"A fragilidade da floresta amazônica e os focos de desmatamentos",
+    "subtitulo":"Vegetação:  os  grandes  biomas  no mundo  e  no  Brasil",
+    "check":false
+  },
+  {
+    "titulo":"As  políticas  internacionais  e  nacionais  de  controle  do  desmatamento:  as  Unidades  de  Conservação",
+    "subtitulo":"Vegetação:  os  grandes  biomas  no mundo  e  no  Brasil",
+    "check":false
+  },
+  {
+    "titulo":"O desenvolvimento sustentável e o desenvolvimento econômico",
+    "subtitulo":"Vegetação:  os  grandes  biomas  no mundo  e  no  Brasil",
+    "check":false
+  },
+  {
+    "titulo":"As políticas ambientais mundiais e nacionais",
+    "subtitulo":"As  questões  ambientais  contemporâneas",
+    "check":false
+  },
+  {
+    "titulo":"Mudança climática: ilhas de calor, efeito estufa, chuva ácida, a destruição da camada de ozônio",
+    "subtitulo":"As  questões  ambientais  contemporâneas",
+    "check":false
+  },
+  {
+    "titulo":"Políticas territoriais ambientais: uso e conservação dos recursos naturais, unidades de conservação e preservação",
+    "subtitulo":"As  questões  ambientais  contemporâneas",
+    "check":false
+  },
+  {
+    "titulo":"Políticas territoriais e ambientais brasileira: corredores ecológicos, zoneamento ecológico e econômico",
+    "subtitulo":"As  questões  ambientais  contemporâneas",
+    "check":false
+  }
+]

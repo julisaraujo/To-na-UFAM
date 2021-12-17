@@ -1,0 +1,97 @@
+[
+  {
+    "titulo":"Ponto",
+    "subtitulo":"Geometria analítica",
+    "check":false
+  },
+  {
+    "titulo":"Reta",
+    "subtitulo":"Geometria analítica",
+    "check":false
+  },
+  {
+    "titulo":"Plano",
+    "subtitulo":"Geometria analítica",
+    "check":false
+  },
+  {
+    "titulo":"Circunferência",
+    "subtitulo":"Geometria analítica",
+    "check":false
+  },
+  {
+    "titulo":"Cônicas",
+    "subtitulo":"Geometria analítica",
+    "check":false
+  },
+  {
+    "titulo":"Forma algébrica",
+    "subtitulo":"Conjunto dos números complexos",
+    "check":false
+  },
+  {
+    "titulo":"Trigonométrica",
+    "subtitulo":"Conjunto dos números complexos",
+    "check":false
+  },
+  {
+    "titulo":"Operações",
+    "subtitulo":"Conjunto dos números complexos",
+    "check":false
+  },
+  {
+    "titulo":"Tabelas",
+    "subtitulo":"Estatística",
+    "check":false
+  },
+  {
+    "titulo":"Gráficos",
+    "subtitulo":"Estatística",
+    "check":false
+  },
+  {
+    "titulo":"Média",
+    "subtitulo":"Estatística",
+    "check":false
+  },
+  {
+    "titulo":"Moda",
+    "subtitulo":"Estatística",
+    "check":false
+  },
+  {
+    "titulo":"Mediana",
+    "subtitulo":"Estatística",
+    "check":false
+  },
+  {
+    "titulo":"Variância",
+    "subtitulo":"Estatística",
+    "check":false
+  },
+  {
+    "titulo":"Desvio padrão",
+    "subtitulo":"Estatística",
+    "check":false
+  },
+  {
+    "titulo":"Teorema do resto D’Alembert",
+    "subtitulo":"Polinômios",
+    "check":false
+  },
+  {
+    "titulo":"Dispositivo de Briot-Rufini",
+    "subtitulo":"Polinômios",
+    "check":false
+  },
+  {
+    "titulo":"Relações  de  Girard",
+    "subtitulo":"Polinômios",
+    "check":false
+  },
+  {
+    "titulo":"Equações polinomiais",
+    "subtitulo":"Polinômios",
+    "check":false
+  }
+]

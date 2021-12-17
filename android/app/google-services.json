@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252677528798",
+    "project_id": "tonaufamapp-52976",
+    "storage_bucket": "tonaufamapp-52976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252677528798:android:d346e54188b57ca31e364f",
+        "android_client_info": {
+          "package_name": "com.julis.to_na_ufam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252677528798-dgbc51mta1hqajbe8pmnjrhhb6qmbaj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsxZBy7TZpYqUoyZwry-0JuDuZ0XFqBKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252677528798-dgbc51mta1hqajbe8pmnjrhhb6qmbaj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

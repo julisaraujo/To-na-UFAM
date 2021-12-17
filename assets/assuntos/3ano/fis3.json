@@ -1,0 +1,167 @@
+[
+  {
+    "titulo":"Noção de carga elétrica",
+    "subtitulo":"Eletromagnetismo:Conceitos Básicos e as Bases Teóricas do Eletromagnetismo",
+    "check":false
+  },
+  {
+    "titulo":"Noção de campo elétrico",
+    "subtitulo":"Eletromagnetismo:Conceitos Básicos e as Bases Teóricas do Eletromagnetismo",
+    "check":false
+  },
+  {
+    "titulo":"Magnético e spin",
+    "subtitulo":"Eletromagnetismo:Conceitos Básicos e as Bases Teóricas do Eletromagnetismo",
+    "check":false
+  },
+  {
+    "titulo":"Carga elementar",
+    "subtitulo":"Eletromagnetismo:Conceitos Básicos e as Bases Teóricas do Eletromagnetismo",
+    "check":false
+  },
+  {
+    "titulo":"Modelo atômico de Rutherford-Bohr",
+    "subtitulo":"Eletromagnetismo:Conceitos Básicos e as Bases Teóricas do Eletromagnetismo",
+    "check":false
+  },
+  {
+    "titulo":"Princípios da Eletrostática:Atração e repulsão,conservação da carga elétrica,quantização da carga elétrica",
+    "subtitulo":"Eletromagnetismo:Conceitos Básicos e as Bases Teóricas do Eletromagnetismo",
+    "check":false
+  },
+  {
+    "titulo":"Processos de eletrização: Contato, atrito e indução, série triboelétrica",
+    "subtitulo":"Eletromagnetismo:Conceitos Básicos e as Bases Teóricas do Eletromagnetismo",
+    "check":false
+  },
+  {
+    "titulo":"A Lei Coulomb e o Campo elétrico",
+    "subtitulo":"Eletromagnetismo:Conceitos Básicos e as Bases Teóricas do Eletromagnetismo",
+    "check":false
+  },
+  {
+    "titulo":"Cargas pontuais extensas; linhas de força e a interação entre cargas",
+    "subtitulo":"Eletromagnetismo:Conceitos Básicos e as Bases Teóricas do Eletromagnetismo",
+    "check":false
+  },
+  {
+    "titulo":"Corrente Elétrica:Resistência elétrica",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Corrente Elétrica:Potencial elétrico",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Corrente Elétrica:Diferença de potencial",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Corrente Elétrica:Energia elétrica",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Corrente Elétrica:Trabalho no deslocamento de cargas elétricas",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Corrente Elétrica:Potência elétrica",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Corrente Elétrica:Rendimento",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Circuitos Elétricos:circuitos em série",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Circuitos Elétricos:circuitos em paralelo",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Circuitos Elétricos:circuitos mistos",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Capacitância:capacitores",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Capacitância:capacitores;circuitos em série",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Capacitância:capacitores;circuitos em paralelo",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Capacitância:capacitores;circuitos misto",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Geradores Elétricos:Circuitos em série",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Geradores Elétricos:Circuitos em paralelo",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Geradores Elétricos:Circuitos mistos",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Receptores Elétricos:Circuitos em série",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Receptores Elétricos:Circuitos em paralelo",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Receptores Elétricos:Circuitos mistos",
+    "subtitulo":"Eletrodinâmica: as maravilhas do movimento dos elétrons I",
+    "check":false
+  },
+  {
+    "titulo":"Dois polos Inseparáveis",
+    "subtitulo":"Magnetismo",
+    "check":false
+  },
+  {
+    "titulo":"A força magnética e o campo magnético",
+    "subtitulo":"Magnetismo",
+    "check":false
+  },
+  {
+    "titulo":"Lei de Lenz",
+    "subtitulo":"Magnetismo",
+    "check":false
+  },
+  {
+    "titulo":"A Indução de Faraday e o campo eletromagnético",
+    "subtitulo":"Magnetismo",
+    "check":false
+  }
+]

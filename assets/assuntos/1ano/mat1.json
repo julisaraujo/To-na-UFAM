@@ -1,0 +1,62 @@
+[
+  {
+    "titulo":"Razão",
+    "subtitulo":"Conhecimentos  numéricos",
+    "check":false
+  },
+  {
+    "titulo":"Proporção",
+    "subtitulo":"Conhecimentos  numéricos",
+    "check":false
+  },
+  {
+    "titulo":"Porcentagem",
+    "subtitulo":"Conhecimentos  numéricos",
+    "check":false
+  },
+  {
+    "titulo":"Regra de três simples",
+    "subtitulo":"Conhecimentos  numéricos",
+    "check":false
+  },
+  {
+    "titulo":"Regra de três composta",
+    "subtitulo":"Conhecimentos  numéricos",
+    "check":false
+  },
+  {
+    "titulo":"Sequências numéricas: PA",
+    "subtitulo":"Conhecimentos  numéricos",
+    "check":false
+  },
+  {
+    "titulo":"Sequências numéricas: PG",
+    "subtitulo":"Conhecimentos  numéricos",
+    "check":false
+  },
+  {
+    "titulo":"Linear",
+    "subtitulo":"Função",
+    "check":false
+  },
+  {
+    "titulo":"Quadrática",
+    "subtitulo":"Função",
+    "check":false
+  },
+  {
+    "titulo":"Exponencial",
+    "subtitulo":"Função",
+    "check":false
+  },
+  {
+    "titulo":"Logarítmica.",
+    "subtitulo":"Função",
+    "check":false
+  },
+  {
+    "titulo":"Triângulo retângulo e seus fundamentos",
+    "subtitulo":"Trigonometria",
+    "check":false
+  }
+]

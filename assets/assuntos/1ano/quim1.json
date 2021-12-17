@@ -1,0 +1,212 @@
+[
+  {
+    "titulo":"A Química na sociedade",
+    "subtitulo":"Introdução ao estudo da Química",
+    "check":false
+  },
+  {
+    "titulo":"A evolução histórica da Ciência: da Alquimia à Química moderna",
+    "subtitulo":"Introdução ao estudo da Química",
+    "check":false
+  },
+  {
+    "titulo":"Estados físicos da matéria e mudanças de estado",
+    "subtitulo":"Materiais: suas propriedades e uso",
+    "check":false
+  },
+  {
+    "titulo":"Fenômenos físicos e químicos",
+    "subtitulo":"Materiais: suas propriedades e uso",
+    "check":false
+  },
+  {
+    "titulo":"Substância química: classificação e características gerais",
+    "subtitulo":"Materiais: suas propriedades e uso",
+    "check":false
+  },
+  {
+    "titulo":"Misturas: tipos e métodos de separação",
+    "subtitulo":"Materiais: suas propriedades e uso",
+    "check":false
+  },
+  {
+    "titulo":"Modelo Corpuscular da matéria",
+    "subtitulo":"Teorias, modelos atômicos e estrutura atômica dos átomos",
+    "check":false
+  },
+  {
+    "titulo":"Teoria atômica de Dalton",
+    "subtitulo":"Teorias, modelos atômicos e estrutura atômica dos átomos",
+    "check":false
+  },
+  {
+    "titulo":"Natureza elétrica da matéria: modelo atômico de Thomson",
+    "subtitulo":"Teorias, modelos atômicos e estrutura atômica dos átomos",
+    "check":false
+  },
+  {
+    "titulo":"Natureza elétrica da matéria: modelo atômico de Rutherford",
+    "subtitulo":"Teorias, modelos atômicos e estrutura atômica dos átomos",
+    "check":false
+  },
+  {
+    "titulo":"Natureza elétrica da matéria: modelo atômico de Rutherford‐Bohr",
+    "subtitulo":"Teorias, modelos atômicos e estrutura atômica dos átomos",
+    "check":false
+  },
+  {
+    "titulo":"Estrutura atômica: número atômico, número de massa e número de nêutrons",
+    "subtitulo":"Teorias, modelos atômicos e estrutura atômica dos átomos",
+    "check":false
+  },
+  {
+    "titulo":"Estrutura atômica: isótopos",
+    "subtitulo":"Teorias, modelos atômicos e estrutura atômica dos átomos",
+    "check":false
+  },
+  {
+    "titulo":"Estrutura atômica: isóbaros",
+    "subtitulo":"Teorias, modelos atômicos e estrutura atômica dos átomos",
+    "check":false
+  },
+  {
+    "titulo":"Estrutura atômica: isótonos",
+    "subtitulo":"Teorias, modelos atômicos e estrutura atômica dos átomos",
+    "check":false
+  },
+  {
+    "titulo":"Elementos químicos: síntese, descoberta e simbologia",
+    "subtitulo":"Elementos Químicos e Tabela Periódica",
+    "check":false
+  },
+  {
+    "titulo":"Construção e organização",
+    "subtitulo":"Elementos Químicos e Tabela Periódica",
+    "check":false
+  },
+  {
+    "titulo":"Propriedades periódicas: raio atômico",
+    "subtitulo":"Elementos Químicos e Tabela Periódica",
+    "check":false
+  },
+  {
+    "titulo":"Propriedades periódicas: eletronegatividade",
+    "subtitulo":"Elementos Químicos e Tabela Periódica",
+    "check":false
+  },
+  {
+    "titulo":"Propriedades periódicas: potencial de ionização",
+    "subtitulo":"Elementos Químicos e Tabela Periódica",
+    "check":false
+  },
+  {
+    "titulo":"Propriedades periódicas: afinidade eletrônica",
+    "subtitulo":"Elementos Químicos e Tabela Periódica",
+    "check":false
+  },
+  {
+    "titulo":"Diagrama de Linus Pauling e configuração eletrônica",
+    "subtitulo":"Ligações Químicas",
+    "check":false
+  },
+  {
+    "titulo":"Ligação iônica",
+    "subtitulo":"Ligações Químicas",
+    "check":false
+  },
+  {
+    "titulo":"Ligação Covalente",
+    "subtitulo":"Ligações Químicas",
+    "check":false
+  },
+  {
+    "titulo":"Ligação Metálica",
+    "subtitulo":"Ligações Químicas",
+    "check":false
+  },
+  {
+    "titulo":"Características e propriedades de compostos iônicos e moleculares",
+    "subtitulo":"Ligações Químicas",
+    "check":false
+  },
+  {
+    "titulo":"Geometria molecular",
+    "subtitulo":"Ligações Químicas",
+    "check":false
+  },
+  {
+    "titulo":"Polaridade de moléculas",
+    "subtitulo":"Ligações Químicas",
+    "check":false
+  },
+  {
+    "titulo":"Ácidos, bases, sais e óxidos: definição, classificação e nomenclatura",
+    "subtitulo":"Funções  Inorgânicas",
+    "check":false
+  },
+  {
+    "titulo":"Caráter ácido e básico das substâncias",
+    "subtitulo":"Funções  Inorgânicas",
+    "check":false
+  },
+  {
+    "titulo":"Principais propriedades dos ácidos e bases: indicadores",
+    "subtitulo":"Funções  Inorgânicas",
+    "check":false
+  },
+  {
+    "titulo":"Principais propriedades dos ácidos e bases: condutibilidade elétrica",
+    "subtitulo":"Funções  Inorgânicas",
+    "check":false
+  },
+  {
+    "titulo":"Principais propriedades dos ácidos e bases: reação com metais",
+    "subtitulo":"Funções  Inorgânicas",
+    "check":false
+  },
+  {
+    "titulo":"Principais propriedades dos ácidos e bases: reação de neutralização",
+    "subtitulo":"Funções  Inorgânicas",
+    "check":false
+  },
+  {
+    "titulo":"Classificação das reações químicas",
+    "subtitulo":"Reações químicas e suas equações",
+    "check":false
+  },
+  {
+    "titulo":"Reações de combustão: o efeito estufa",
+    "subtitulo":"Reações químicas e suas equações",
+    "check":false
+  },
+  {
+    "titulo":"Balanceamento de equações: método das tentativas e de oxidação‐redução",
+    "subtitulo":"Reações químicas e suas equações",
+    "check":false
+  },
+  {
+    "titulo":"Cálculos Químicos",
+    "subtitulo":"Reações químicas e suas equações",
+    "check":false
+  },
+  {
+    "titulo":"Leis Ponderais: Proust e Lavoisier",
+    "subtitulo":"Reações químicas e suas equações",
+    "check":false
+  },
+  {
+    "titulo":"Estequiometria: cálculo de fórmulas",
+    "subtitulo":"Reações químicas e suas equações",
+    "check":false
+  },
+  {
+    "titulo":"Estudo teórico sobre o rendimento de uma reação química",
+    "subtitulo":"Reações químicas e suas equações",
+    "check":false
+  },
+  {
+    "titulo":"Relações quantitativas de uma espécie química ou entre duas ou mais espécies químicas",
+    "subtitulo":"Reações químicas e suas equações",
+    "check":false
+  }
+]

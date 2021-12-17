@@ -1,0 +1,82 @@
+[
+  {
+    "titulo":"Estudo do Carbono",
+    "subtitulo":"Introdução à Química Orgânica",
+    "check":false
+  },
+  {
+    "titulo":"Classificação das Cadeias Carbônicas",
+    "subtitulo":"Introdução à Química Orgânica",
+    "check":false
+  },
+  {
+    "titulo":"Geometria molecular",
+    "subtitulo":"Introdução à Química Orgânica",
+    "check":false
+  },
+  {
+    "titulo":"Orbitais híbridos",
+    "subtitulo":"Introdução à Química Orgânica",
+    "check":false
+  },
+  {
+    "titulo":"Notação,nomenclatura e propriedades dos Hidrocarbonetos",
+    "subtitulo":"Funções orgânicas",
+    "check":false
+  },
+  {
+    "titulo":"Notação,nomenclatura e propriedades Funções Oxigenadas",
+    "subtitulo":"Funções orgânicas",
+    "check":false
+  },
+  {
+    "titulo":"Notação,nomenclatura e propriedades das Funções Nitrogenadas",
+    "subtitulo":"Funções orgânicas",
+    "check":false
+  },
+  {
+    "titulo":"Notação,nomenclatura e propriedades das Funções Sulfuradas",
+    "subtitulo":"Funções orgânicas",
+    "check":false
+  },
+  {
+    "titulo":"Notação,nomenclatura e propriedades das Funções Mistas",
+    "subtitulo":"Funções orgânicas",
+    "check":false
+  },
+  {
+    "titulo":"Notação,nomenclatura e propriedades dos Compostos Organometálicos",
+    "subtitulo":"Funções orgânicas",
+    "check":false
+  },
+  {
+    "titulo":"Isomeria Plana",
+    "subtitulo":"Isomeria",
+    "check":false
+  },
+  {
+    "titulo":"Isomeria Geométrica",
+    "subtitulo":"Isomeria",
+    "check":false
+  },
+  {
+    "titulo":"Isomeria Óptica",
+    "subtitulo":"Isomeria",
+    "check":false
+  },
+  {
+    "titulo":"Polímeros",
+    "subtitulo":"Biomoléculas",
+    "check":false
+  },
+  {
+    "titulo":"Ressonância",
+    "subtitulo":"Mecanismo de reações orgânicas",
+    "check":false
+  },
+  {
+    "titulo":"Tipos de reações orgânicas e principais mecanismos",
+    "subtitulo":"Mecanismo de reações orgânicas",
+    "check":false
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "titulo":"Formação do Português no Brasil",
+    "subtitulo":"Origem e desenvolvimento da Língua Portuguesa",
+    "check":false
+  },
+  {
+    "titulo":"Presença das culturas africanas e indígenas na Língua Portuguesa",
+    "subtitulo":"Origem e desenvolvimento da Língua Portuguesa",
+    "check":false
+  },
+  {
+    "titulo":"Sons e letras",
+    "subtitulo":"Fonologia",
+    "check":false
+  },
+  {
+    "titulo":"Classificação dos fonemas",
+    "subtitulo":"Fonologia",
+    "check":false
+  },
+  {
+    "titulo":"Sílaba",
+    "subtitulo":"Fonologia",
+    "check":false
+  },
+  {
+    "titulo":"Encontros vocálicos, consonantais e dígrafos",
+    "subtitulo":"Fonologia",
+    "check":false
+  },
+  {
+    "titulo":"Ortografia:  emprego  de  certas  letras  ou  dígrafos: x ou ch",
+    "subtitulo":"Fonologia",
+    "check":false
+  },
+  {
+    "titulo":"Ortografia:  emprego  de  certas  letras  ou  dígrafos: g ou j",
+    "subtitulo":"Fonologia",
+    "check":false
+  },
+  {
+    "titulo":"Ortografia:  emprego  de  certas  letras  ou  dígrafos: s, c, ç, sc ou x",
+    "subtitulo":"Fonologia",
+    "check":false
+  },
+  {
+    "titulo":"Ortografia:  emprego  de  certas  letras  ou  dígrafos: s ou z",
+    "subtitulo":"Fonologia",
+    "check":false
+  },
+  {
+    "titulo":"Ortografia:  emprego  de  certas  letras  ou  dígrafos: e ou i",
+    "subtitulo":"Fonologia",
+    "check":false
+  },
+  {
+    "titulo":"Ortografia:  emprego  de  certas  letras  ou  dígrafos: o ou u",
+    "subtitulo":"Fonologia",
+    "check":false
+  },
+  {
+    "titulo":"Acentuação gráfica",
+    "subtitulo":"Fonologia",
+    "check":false
+  },
+  {
+    "titulo":"Emprego do hífen",
+    "subtitulo":"Fonologia",
+    "check":false
+  },
+  {
+    "titulo":"Artigos: definidos e indefinidos",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Substantivos: classificação, formação, flexão de gênero, número e grau; plural com metafonia.",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Adjetivos: classificação, formação, locução adjetiva; flexão de gênero, número e grau",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":" Numerais:  cardinais,  ordinais,  multiplicativos  e  fracionários",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Pronomes:  pessoais,  possessivos, demonstrativos, indefinidos, relativos e interrogativos",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Verbos: regulares, irregulares, anômalos, defectivos e abundantes; conjugação: tempos simples e compostos",
+    "subtitulo":"Morfologia",
+    "check":false
+  },
+  {
+    "titulo":"Frase, oração e período",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Tipos de sujeito e de predicado",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"A oração sem sujeito",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Variações linguísticas",
+    "subtitulo":"Sintaxe",
+    "check":false
+  },
+  {
+    "titulo":"Marcas da oralidade no discurso",
+    "subtitulo":"Sintaxe",
+    "check":false
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "titulo":"Massa molar e quantidade de matéria (mol) princípio de Avogadro e volume molar gasoso",
+    "subtitulo":"Estudo dos gases",
+    "check":false
+  },
+  {
+    "titulo":"Teoria cinética dos gases",
+    "subtitulo":"Estudo dos gases",
+    "check":false
+  },
+  {
+    "titulo":"Equação geral dos gases ideais",
+    "subtitulo":"Estudo dos gases",
+    "check":false
+  },
+  {
+    "titulo":"Leis das Transformações Gasosas",
+    "subtitulo":"Estudo dos gases",
+    "check":false
+  },
+  {
+    "titulo":"Misturas Gasosas",
+    "subtitulo":"Estudo dos gases",
+    "check":false
+  },
+  {
+    "titulo":"Soluções,coloides e agregados",
+    "subtitulo":"Estudo das Soluções",
+    "check":false
+  },
+  {
+    "titulo":"Concentração comum,molaridade,fração molar,diluição,mistura de soluções,solubilidade e concentrações(mol/L,ppm e %)",
+    "subtitulo":"Estudo das Soluções",
+    "check":false
+  },
+  {
+    "titulo":"Relações quantitativas de massa, quantidade de matéria e volume nas transformações químicas",
+    "subtitulo":"Estudo das Soluções",
+    "check":false
+  },
+  {
+    "titulo":"Processos endotérmicos e exotérmicos",
+    "subtitulo":"Termoquímica",
+    "check":false
+  },
+  {
+    "titulo":"Calor de reação:Entalpia",
+    "subtitulo":"Termoquímica",
+    "check":false
+  },
+  {
+    "titulo":"Equações termoquímicas e variação de entalpia",
+    "subtitulo":"Termoquímica",
+    "check":false
+  },
+  {
+    "titulo":"Lei de Hess",
+    "subtitulo":"Termoquímica",
+    "check":false
+  },
+  {
+    "titulo":"Modelos explicativos das velocidades das transformações químicas",
+    "subtitulo":"Cinética Química",
+    "check":false
+  },
+  {
+    "titulo":" Teoria das colisões",
+    "subtitulo":"Cinética Química",
+    "check":false
+  },
+  {
+    "titulo":" Fatores que afetam a velocidade de uma reação química:concentração",
+    "subtitulo":"Cinética Química",
+    "check":false
+  },
+  {
+    "titulo":" Fatores que afetam a velocidade de uma reação química:estado de agregação",
+    "subtitulo":"Cinética Química",
+    "check":false
+  },
+  {
+    "titulo":" Fatores que afetam a velocidade de uma reação química:pressão",
+    "subtitulo":"Cinética Química",
+    "check":false
+  },
+  {
+    "titulo":" Fatores que afetam a velocidade de uma reação química:catalisador",
+    "subtitulo":"Cinética Química",
+    "check":false
+  },
+  {
+    "titulo":"Reação química e reversibilidade",
+    "subtitulo":"Equilíbrio Químico",
+    "check":false
+  },
+  {
+    "titulo":"Constante de equilíbrio",
+    "subtitulo":"Equilíbrio Químico",
+    "check":false
+  },
+  {
+    "titulo":" Fatores que afetam o estado de equilíbrio químico(Concentração;Pressão;Temperatura)",
+    "subtitulo":"Equilíbrio Químico",
+    "check":false
+  },
+  {
+    "titulo":"Princípio de Le Chatelier",
+    "subtitulo":"Equilíbrio Químico",
+    "check":false
+  },
+  {
+    "titulo":"Produto iônico da água, equilíbrio ácido-base e pH",
+    "subtitulo":"Equilíbrio Químico",
+    "check":false
+  },
+  {
+    "titulo":"Transformações químicas e energia elétrica",
+    "subtitulo":"Eletroquímica",
+    "check":false
+  },
+  {
+    "titulo":"Reação de oxidorredução",
+    "subtitulo":"Eletroquímica",
+    "check":false
+  },
+  {
+    "titulo":"Potências padrão de redução",
+    "subtitulo":"Eletroquímica",
+    "check":false
+  },
+  {
+    "titulo":"Pilha de Daniel",
+    "subtitulo":"Eletroquímica",
+    "check":false
+  }
+]

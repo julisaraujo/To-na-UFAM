@@ -1,0 +1,147 @@
+[
+  {
+    "titulo":"Temperatura",
+    "subtitulo":"Introdução à Física Térmica:Conceitos Básicos a Termologia,Bases Teóricas da Termodinâmica Clássica e a Investigação dos Fenômenos Térmicos I",
+    "check":false
+  },
+  {
+    "titulo":"Energia térmica",
+    "subtitulo":"Introdução à Física Térmica:Conceitos Básicos a Termologia,Bases Teóricas da Termodinâmica Clássica e a Investigação dos Fenômenos Térmicos I",
+    "check":false
+  },
+  {
+    "titulo":"Calor",
+    "subtitulo":"Introdução à Física Térmica:Conceitos Básicos a Termologia,Bases Teóricas da Termodinâmica Clássica e a Investigação dos Fenômenos Térmicos I",
+    "check":false
+  },
+  {
+    "titulo":"Pressão",
+    "subtitulo":"Introdução à Física Térmica:Conceitos Básicos a Termologia,Bases Teóricas da Termodinâmica Clássica e a Investigação dos Fenômenos Térmicos I",
+    "check":false
+  },
+  {
+    "titulo":"Volume",
+    "subtitulo":"Introdução à Física Térmica:Conceitos Básicos a Termologia,Bases Teóricas da Termodinâmica Clássica e a Investigação dos Fenômenos Térmicos I",
+    "check":false
+  },
+  {
+    "titulo":"O Modelo Cinético Molecular",
+    "subtitulo":"Introdução à Física Térmica:Conceitos Básicos a Termologia,Bases Teóricas da Termodinâmica Clássica e a Investigação dos Fenômenos Térmicos I",
+    "check":false
+  },
+  {
+    "titulo":"As Leis da Termodinâmica:Lei zero da Termodinâmica",
+    "subtitulo":"Introdução à Física Térmica:Conceitos Básicos a Termologia,Bases Teóricas da Termodinâmica Clássica e a Investigação dos Fenômenos Térmicos I",
+    "check":false
+  },
+  {
+    "titulo":"1ª Lei da Termodinâmica",
+    "subtitulo":"Introdução à Física Térmica:Conceitos Básicos a Termologia,Bases Teóricas da Termodinâmica Clássica e a Investigação dos Fenômenos Térmicos I",
+    "check":false
+  },
+  {
+    "titulo":"2ª Lei da Termodinâmica",
+    "subtitulo":"Introdução à Física Térmica:Conceitos Básicos a Termologia,Bases Teóricas da Termodinâmica Clássica e a Investigação dos Fenômenos Térmicos I",
+    "check":false
+  },
+  {
+    "titulo":"Dilatação térmica de sólidos e de líquidos",
+    "subtitulo":"Introdução à Física Térmica:Conceitos Básicos a Termologia,Bases Teóricas da Termodinâmica Clássica e a Investigação dos Fenômenos Térmicos I",
+    "check":false
+  },
+  {
+    "titulo":"Calorimetria",
+    "subtitulo":"A  Investigação  dos  Fenômenos  Térmicos  II",
+    "check":false
+  },
+  {
+    "titulo":"Transmissão  do  calor",
+    "subtitulo":"A  Investigação  dos  Fenômenos  Térmicos  II",
+    "check":false
+  },
+  {
+    "titulo":"Estudo dos gases",
+    "subtitulo":"A  Investigação  dos  Fenômenos  Térmicos  II",
+    "check":false
+  },
+  {
+    "titulo":"Máquina térmica e refrigeradores",
+    "subtitulo":"A  Investigação  dos  Fenômenos  Térmicos  II",
+    "check":false
+  },
+  {
+    "titulo":"Tipos e classificação de ondas",
+    "subtitulo":"Ondulatória:A compreensão das ondas que nos cercam",
+    "check":false
+  },
+  {
+    "titulo":"Principais fenômenos:Reflexão",
+    "subtitulo":"Ondulatória:A compreensão das ondas que nos cercam",
+    "check":false
+  },
+  {
+    "titulo":"Principais fenômenos:Refração",
+    "subtitulo":"Ondulatória:A compreensão das ondas que nos cercam",
+    "check":false
+  },
+  {
+    "titulo":"Principais fenômenos:Absorção",
+    "subtitulo":"Ondulatória:A compreensão das ondas que nos cercam",
+    "check":false
+  },
+  {
+    "titulo":"Principais fenômenos:Difração",
+    "subtitulo":"Ondulatória:A compreensão das ondas que nos cercam",
+    "check":false
+  },
+  {
+    "titulo":"Principais fenômenos:Interferência",
+    "subtitulo":"Ondulatória:A compreensão das ondas que nos cercam",
+    "check":false
+  },
+  {
+    "titulo":"Ondas sonoras",
+    "subtitulo":"Ondulatória:A compreensão das ondas que nos cercam",
+    "check":false
+  },
+  {
+    "titulo":"O efeito Doppler",
+    "subtitulo":"Ondulatória:A compreensão das ondas que nos cercam",
+    "check":false
+  },
+  {
+    "titulo":"Os fundamentos da fonação e audição",
+    "subtitulo":"Ondulatória:A compreensão das ondas que nos cercam",
+    "check":false
+  },
+  {
+    "titulo":"O fenômeno ondulatório na natureza",
+    "subtitulo":"Ondulatória:A compreensão das ondas que nos cercam",
+    "check":false
+  },
+  {
+    "titulo":"Fundamentos teóricos da Óptica Física",
+    "subtitulo":"Óptica:Uma análise geral sobre o comportamento da luz",
+    "check":false
+  },
+  {
+    "titulo":"Princípios de Óptica Geométrica",
+    "subtitulo":"Óptica:Uma análise geral sobre o comportamento da luz",
+    "check":false
+  },
+  {
+    "titulo":"Fenômenos ópticos",
+    "subtitulo":"Óptica:Uma análise geral sobre o comportamento da luz",
+    "check":false
+  },
+  {
+    "titulo":"Espelhos planos e esféricos",
+    "subtitulo":"Óptica:Uma análise geral sobre o comportamento da luz",
+    "check":false
+  },
+  {
+    "titulo":"Tipos de lentes",
+    "subtitulo":"Óptica:Uma análise geral sobre o comportamento da luz",
+    "check":false
+  }
+]

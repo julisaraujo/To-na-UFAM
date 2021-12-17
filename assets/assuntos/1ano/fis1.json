@@ -1,0 +1,122 @@
+[
+  {
+    "titulo":"Regra de arredondamento",
+    "subtitulo":"A  Matemática  necessária",
+    "check":false
+  },
+  {
+    "titulo":"Algarismos significativos",
+    "subtitulo":"A  Matemática  necessária",
+    "check":false
+  },
+  {
+    "titulo":"Notação científica",
+    "subtitulo":"A  Matemática  necessária",
+    "check":false
+  },
+  {
+    "titulo":"Ordem de grandeza e estimativas",
+    "subtitulo":"A  Matemática  necessária",
+    "check":false
+  },
+  {
+    "titulo":" Conceitos de Espaço, Massa, Tempo, Força e Energia",
+    "subtitulo":"A  Matemática  necessária",
+    "check":false
+  },
+  {
+    "titulo":"Unidades:  Grandezas  fundamentais,  derivadas,  nomenclatura  científica  e  análise dimensional",
+    "subtitulo":"O  início  –  Big  Bang",
+    "check":false
+  },
+  {
+    "titulo":"Medida de uma grandeza (incerteza absoluta e percentual) e erros",
+    "subtitulo":"O  início  –  Big  Bang",
+    "check":false
+  },
+  {
+    "titulo":"As Leis de Newton",
+    "subtitulo":"O  início  –  Big  Bang",
+    "check":false
+  },
+  {
+    "titulo":"As Leis de Keppler: Leis das elipses, áreas e períodos",
+    "subtitulo":"Os Princípios Matemáticos da Filosofia Natural",
+    "check":false
+  },
+  {
+    "titulo":"A Lei da Gravitação Universal: gravidade da Terra Normal",
+    "subtitulo":"Os Princípios Matemáticos da Filosofia Natural",
+    "check":false
+  },
+  {
+    "titulo":"A Lei da Gravitação Universal: gravidade de outros corpos",
+    "subtitulo":"Os Princípios Matemáticos da Filosofia Natural",
+    "check":false
+  },
+  {
+    "titulo":"A Lei da Gravitação Universal: centro de massa",
+    "subtitulo":"Os Princípios Matemáticos da Filosofia Natural",
+    "check":false
+  },
+  {
+    "titulo":"A Lei da Gravitação Universal: centro de gravidade",
+    "subtitulo":"Os Princípios Matemáticos da Filosofia Natural",
+    "check":false
+  },
+  {
+    "titulo":"Repouso, M.U e MRU (descrição do movimento com as funções e gráficos)",
+    "subtitulo":"Referencial  ou  sistema  de  referência",
+    "check":false
+  },
+  {
+    "titulo":"Efeito estático da força: a deformação (Lei de Hooke)",
+    "subtitulo":"Referencial  ou  sistema  de  referência",
+    "check":false
+  },
+  {
+    "titulo":"Efeito dinâmico da força: a aceleração (2.ª Lei de Newton)",
+    "subtitulo":"Referencial  ou  sistema  de  referência",
+    "check":false
+  },
+  {
+    "titulo":"Referencial ou Sistema de Referência",
+    "subtitulo":"Referencial  ou  sistema  de  referência",
+    "check":false
+  },
+  {
+    "titulo":"Movimento circular e uniforme e uniformemente variado",
+    "subtitulo":"Os princípios matemáticos da Filosofia Natural II",
+    "check":false
+  },
+  {
+    "titulo":"Queda livre",
+    "subtitulo":"Os princípios matemáticos da Filosofia Natural II",
+    "check":false
+  },
+  {
+    "titulo":"Lançamento horizontal e oblíquo",
+    "subtitulo":"Os princípios matemáticos da Filosofia Natural II",
+    "check":false
+  },
+  {
+    "titulo":"Hidrostática: Conceito de Pressão e Densidade",
+    "subtitulo":"A Mecânica dos Fluidos",
+    "check":false
+  },
+  {
+    "titulo":"Hidrostática: Pressão atmosférica Normal",
+    "subtitulo":"A Mecânica dos Fluidos",
+    "check":false
+  },
+  {
+    "titulo":"Conceito de empuxo e Princípio de Arquimedes (Enunciado e aplicações no cotidiano)",
+    "subtitulo":"A Mecânica dos Fluidos",
+    "check":false
+  },
+  {
+    "titulo":"Princípio de Pascal (Enunciado e aplicações no cotidiano – elevador hidráulico)",
+    "subtitulo":"A Mecânica dos Fluidos",
+    "check":false
+  }
+]

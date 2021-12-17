@@ -1,0 +1,112 @@
+[
+  {
+    "titulo":"Conceito",
+    "subtitulo":"Matrizes e Sistemas",
+    "check":false
+  },
+  {
+    "titulo":"Operações determinantes",
+    "subtitulo":"Matrizes e Sistemas",
+    "check":false
+  },
+  {
+    "titulo":"Sistemas lineares",
+    "subtitulo":"Matrizes e Sistemas",
+    "check":false
+  },
+  {
+    "titulo":"Análise combinatória:PFC",
+    "subtitulo":"Conhecimento de Probabilidade",
+    "check":false
+  },
+  {
+    "titulo":"Análise combinatória:Fatorial",
+    "subtitulo":"Conhecimento de Probabilidade",
+    "check":false
+  },
+  {
+    "titulo":"Análise combinatória:Arranjo",
+    "subtitulo":"Conhecimento de Probabilidade",
+    "check":false
+  },
+  {
+    "titulo":"Análise combinatória:Permutação",
+    "subtitulo":"Conhecimento de Probabilidade",
+    "check":false
+  },
+  {
+    "titulo":"Análise combinatória:Combinação",
+    "subtitulo":"Conhecimento de Probabilidade",
+    "check":false
+  },
+  {
+    "titulo":"Probabilidade",
+    "subtitulo":"Conhecimento de Probabilidade",
+    "check":false
+  },
+  {
+    "titulo":"Posições relativas:Ponto e reta",
+    "subtitulo":"Geometria espacial métrica",
+    "check":false
+  },
+  {
+    "titulo":"Posições relativas:Ponto e plano",
+    "subtitulo":"Geometria espacial métrica",
+    "check":false
+  },
+  {
+    "titulo":"Posições relativas:Distâncias",
+    "subtitulo":"Geometria espacial métrica",
+    "check":false
+  },
+  {
+    "titulo":"Paralelismo no espaço",
+    "subtitulo":"Geometria espacial métrica",
+    "check":false
+  },
+  {
+    "titulo":"Projeção ortogonal",
+    "subtitulo":"Geometria espacial métrica",
+    "check":false
+  },
+  {
+    "titulo":"Sólidos Geométricos: Prisma",
+    "subtitulo":"Geometria espacial",
+    "check":false
+  },
+  {
+    "titulo":"Sólidos Geométricos: Pirâmides",
+    "subtitulo":"Geometria espacial",
+    "check":false
+  },
+  {
+    "titulo":"Sólidos Geométricos: Tronco de Pirâmides",
+    "subtitulo":"Geometria espacial",
+    "check":false
+  },
+  {
+    "titulo":"Sólidos Geométricos: Cilindro",
+    "subtitulo":"Geometria espacial",
+    "check":false
+  },
+  {
+    "titulo":"Sólidos Geométricos: Cone",
+    "subtitulo":"Geometria espacial",
+    "check":false
+  },
+  {
+    "titulo":"Sólidos Geométricos: Tronco de Cone",
+    "subtitulo":"Geometria espacial",
+    "check":false
+  },
+  {
+    "titulo":"Sólidos Geométricos: Esfera",
+    "subtitulo":"Geometria espacial",
+    "check":false
+  },
+  {
+    "titulo":"Área e Volume dos Sólidos",
+    "subtitulo":"Geometria espacial",
+    "check":false
+  }
+]

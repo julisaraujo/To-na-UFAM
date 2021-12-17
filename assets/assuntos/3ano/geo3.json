@@ -1,0 +1,207 @@
+[
+  {
+    "titulo":"Urbanização contemporânea e organização da cidade",
+    "subtitulo":"O espaço urbano em tempos de globalização",
+    "check":false
+  },
+  {
+    "titulo":"A segregação urbana e a desigualdade social",
+    "subtitulo":"O espaço urbano em tempos de globalização",
+    "check":false
+  },
+  {
+    "titulo":"Redes e hierarquias urbanas:a cidade no contexto da economia global",
+    "subtitulo":"O espaço urbano em tempos de globalização",
+    "check":false
+  },
+  {
+    "titulo":"Diversidade cultural e violência urbana",
+    "subtitulo":"O espaço urbano em tempos de globalização",
+    "check":false
+  },
+  {
+    "titulo":"O processo de urbanização brasileira",
+    "subtitulo":"A urbanização brasileira",
+    "check":false
+  },
+  {
+    "titulo":"Das pequenas cidades às metrópoles no Brasil",
+    "subtitulo":"A urbanização brasileira",
+    "check":false
+  },
+  {
+    "titulo":"Regiões Metropolitanas:as cidades dormitórios",
+    "subtitulo":"A urbanização brasileira",
+    "check":false
+  },
+  {
+    "titulo":"Organização das cidades:rede e hierarquia urbana no Brasil",
+    "subtitulo":"A urbanização brasileira",
+    "check":false
+  },
+  {
+    "titulo":"Desigualdades sociais e segregação espacial nas cidades brasileiras",
+    "subtitulo":"A urbanização brasileira",
+    "check":false
+  },
+  {
+    "titulo":"Cidades e acessibilidade:o direito à cidade",
+    "subtitulo":"A urbanização brasileira",
+    "check":false
+  },
+  {
+    "titulo":"Plano Diretor e Estatuto da Cidade:o Estado e a organização das cidades",
+    "subtitulo":"A urbanização brasileira",
+    "check":false
+  },
+  {
+    "titulo":"O lixo nas cidades: Impacto ambiental e social",
+    "subtitulo":"As cidades e os impactos ambientais",
+    "check":false
+  },
+  {
+    "titulo":"Os catadores de lixo e a vida na cidade",
+    "subtitulo":"As cidades e os impactos ambientais",
+    "check":false
+  },
+  {
+    "titulo":"Ocupação urbana e as áreas de preservação",
+    "subtitulo":"As cidades e os impactos ambientais",
+    "check":false
+  },
+  {
+    "titulo":"Poluição:no ar,na água e no solo",
+    "subtitulo":"As cidades e os impactos ambientais",
+    "check":false
+  },
+  {
+    "titulo":"A economia e a sustentabilidade",
+    "subtitulo":"A nova ordem ambiental internacional",
+    "check":false
+  },
+  {
+    "titulo":"Políticas internacionais ambientais:As conferências Internacionais",
+    "subtitulo":"A nova ordem ambiental internacional",
+    "check":false
+  },
+  {
+    "titulo":"As organizações não governamentais (ONGs) e o debate da preservação e da conservação",
+    "subtitulo":"A nova ordem ambiental internacional",
+    "check":false
+  },
+  {
+    "titulo":"O comércio e a disputa de mercados",
+    "subtitulo":"O espaço da circulação de mercadorias",
+    "check":false
+  },
+  {
+    "titulo":"Os blocos econômicos internacionais e a definição demercados",
+    "subtitulo":"O espaço da circulação de mercadorias",
+    "check":false
+  },
+  {
+    "titulo":"Tecnologias de comunicação:diminuindo distância e aproximando pessoas",
+    "subtitulo":"O espaço da circulação de mercadorias",
+    "check":false
+  },
+  {
+    "titulo":"Redes de transportes:na terra,na água e no ar",
+    "subtitulo":"Transporte: a circulação de pessoas e mercadorias",
+    "check":false
+  },
+  {
+    "titulo":"A rede de transporte no Brasil:ferrovias,rodovias,hidrovias e aeroportos",
+    "subtitulo":"Transporte: a circulação de pessoas e mercadorias",
+    "check":false
+  },
+  {
+    "titulo":"O transporte urbano:políticas públicas,pensando uma cidade sustentável",
+    "subtitulo":"Transporte: a circulação de pessoas e mercadorias",
+    "check":false
+  },
+  {
+    "titulo":"Definindo a Geopolítica",
+    "subtitulo":"Geopolítica:a nova ordem do capital",
+    "check":false
+  },
+  {
+    "titulo":"Capitalismo industrial,financeiro e informacional reordenando territórios",
+    "subtitulo":"Geopolítica:a nova ordem do capital",
+    "check":false
+  },
+  {
+    "titulo":"A formação de novos blocos econômicos:regionalização e garantia de mercado",
+    "subtitulo":"Geopolítica:a nova ordem do capital",
+    "check":false
+  },
+  {
+    "titulo":"A conquista da paz pela guerra:a presença americana no Iraque e no Afeganistão",
+    "subtitulo":"Geopolítica e poder",
+    "check":false
+  },
+  {
+    "titulo":"O velho muro:a Muralha da China",
+    "subtitulo":"Os muros que dividem as fronteiras e os homens:as disputas políticas,econômicas e religiosas",
+    "check":false
+  },
+  {
+    "titulo":"Os outros muros:dividindo os homens e os territórios",
+    "subtitulo":"Os muros que dividem as fronteiras e os homens:as disputas políticas,econômicas e religiosas",
+    "check":false
+  },
+  {
+    "titulo":"Iêmem e Arábia Saudita",
+    "subtitulo":"Os muros que dividem as fronteiras e os homens:as disputas políticas,econômicas e religiosas",
+    "check":false
+  },
+  {
+    "titulo":"Arábia Saudita e Iraque",
+    "subtitulo":"Os muros que dividem as fronteiras e os homens:as disputas políticas,econômicas e religiosas",
+    "check":false
+  },
+  {
+    "titulo":"O muro entre as coreias",
+    "subtitulo":"Os muros que dividem as fronteiras e os homens:as disputas políticas,econômicas e religiosas",
+    "check":false
+  },
+  {
+    "titulo":"Índia e Paquistão",
+    "subtitulo":"Os muros que dividem as fronteiras e os homens:as disputas políticas,econômicas e religiosas",
+    "check":false
+  },
+  {
+    "titulo":"Estados Unidos e México",
+    "subtitulo":"Os muros que dividem as fronteiras e os homens:as disputas políticas,econômicas e religiosas",
+    "check":false
+  },
+  {
+    "titulo":"Palestina e Israel(Cisjordânia)",
+    "subtitulo":"Os muros que dividem as fronteiras e os homens:as disputas políticas,econômicas e religiosas",
+    "check":false
+  },
+  {
+    "titulo":"Botsuana e Zimbábue(Sul da África)",
+    "subtitulo":"Os muros que dividem as fronteiras e os homens:as disputas políticas,econômicas e religiosas",
+    "check":false
+  },
+  {
+    "titulo":"Chipre:o muro entre Turquia e Grécia",
+    "subtitulo":"Os muros que dividem as fronteiras e os homens:as disputas políticas,econômicas e religiosas",
+    "check":false
+  },
+  {
+    "titulo":"Mauritânia e Marrocos (disputa pelo Saara Ocidental)",
+    "subtitulo":"Os muros que dividem as fronteiras e os homens:as disputas políticas,econômicas e religiosas",
+    "check":false
+  },
+  {
+    "titulo":"O muro de Belfast(Irlanda do Norte)",
+    "subtitulo":"Os muros que dividem as fronteiras e os homens:as disputas políticas,econômicas e religiosas",
+    "check":false
+  },
+  {
+    "titulo":"Os acampamentos nas fronteiras: os sem-territórios",
+    "subtitulo":"Os migrantes da guerra",
+    "check":false
+  }
+]
